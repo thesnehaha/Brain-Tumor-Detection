@@ -4,6 +4,7 @@ This brain tumor detection project uses machine learning to analyze MRI scans an
 Dataset : https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
 
 Key features of this project:
+
 a)Utilizes a Support Vector Machine (SVM) classifier
 b)Preprocesses images using OpenCV
 c)Provides confidence scores for predictions
